@@ -1,0 +1,8 @@
+<configuration>
+    <input>
+        <net-file value="JH2.net.xml"/>
+        <route-files value="demand.rou.xml"/>
+        <no-step-log value="True"/>
+        <time-to-teleport value="0"/>
+    </input>
+</configuration>
